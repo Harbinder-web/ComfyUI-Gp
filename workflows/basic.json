@@ -28,7 +28,7 @@
   },
   "4": {
     "inputs": {
-      "ckpt_name": "deliberate_v3.safetensors"
+      "ckpt_name": "realisticVisionV51_v51VAE.safetensors"
     },
     "class_type": "CheckpointLoaderSimple"
   },
